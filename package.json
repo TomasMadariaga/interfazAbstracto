@@ -1,0 +1,19 @@
+{
+  "name": "abstractoyinterfaz",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TomasMadariaga/interfazAbstracto.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TomasMadariaga/interfazAbstracto/issues"
+  },
+  "homepage": "https://github.com/TomasMadariaga/interfazAbstracto#readme"
+}
