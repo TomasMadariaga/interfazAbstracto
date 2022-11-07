@@ -145,7 +145,7 @@ var Camion = /** @class */ (function (_super) {
     };
     return Camion;
 }(Auto));
-var axelSan = new Camion('Mercedez', 'El tumba gordas', 6);
-console.log(axelSan);
-axelSan.tocarBocina();
-axelSan.acelerar();
+var camion = new Camion('Mercedez', 'Tesla', 6);
+console.log(camion);
+camion.tocarBocina();
+camion.acelerar();
